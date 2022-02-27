@@ -1,3 +1,7 @@
+// Assignment 1
+// Oliver Kmiec
+// 101247765
+
 const { gql } = require('apollo-server-express');
 
 exports.typeDefs = gql

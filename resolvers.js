@@ -1,3 +1,7 @@
+// Assignment 1
+// Oliver Kmiec
+// 101247765
+
 const Booking = require('./models/Booking')
 const Listings = require('./models/Listings')
 const User = require('./models/User')
